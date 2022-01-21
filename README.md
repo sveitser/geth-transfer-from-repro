@@ -2,7 +2,7 @@
 
 - Works with hardhat node
 - Works with a similar example in typescript (below) and geth
-- Works with ethers-rs if a contract state modification is done after the `trasnferFrom`.
+- Works with ethers-rs if a contract state modification is done after the `transferFrom`.
 
 To run
 
